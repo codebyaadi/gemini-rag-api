@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-generativeai
+chromadb
+pytest
+httpx
+flake8
